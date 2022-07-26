@@ -144,11 +144,11 @@ p {
     background-color: #2589bd;
 }
 
-
 /* 2nd content header*/
 .contentHeader {
     margin-bottom: 10px;
     text-align: center;
+    color: #ffffff;    
 }
 
 /* 2nd content Image*/
@@ -173,6 +173,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
