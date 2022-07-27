@@ -24,12 +24,12 @@ p {
     background-color: #2a607c;
     color: #ffffff;
 }
-.header h1 {
+.seo {
+    color: #d9dcd6;
+}
+.companyName {
     display: inline-block;
     font-size: 48px;
-}
-.header h1 .seo {
-    color: #d9dcd6;
 }
 
 /* Header Links */
