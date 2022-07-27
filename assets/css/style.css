@@ -1,3 +1,4 @@
+/* Universal Selector */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -6,12 +7,10 @@
 body {
     background-color: #d9dcd6;
 }
-/*  Link Font */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-/* Paragraph font */
 p {
     font-size: 16px;
 }
@@ -87,7 +86,7 @@ p {
 
 
 
-/*  CONTENT  */
+/* MAIN CONTENT  */
 /* Main Content text font */
 .content {
     width: 75%;
@@ -155,7 +154,7 @@ p {
 .contentImage {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
+    max-width: 15px;
 }
 
 /* 2nd content paragraph*/

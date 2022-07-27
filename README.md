@@ -6,7 +6,6 @@
   </head>
 
   <body>
-    Horiseon Help website.
     <br>
     <a href="https://l1keafox.github.io/Horiseon">Click here for Horiseon Website </a> 
     <br>
@@ -14,3 +13,20 @@
   </body>
 
 </html>
+
+# <Your-Project-Title>
+
+## Description
+
+Refactoring of website and deploying <a href="https://l1keafox.github.io/Horiseon">here </a> 
+
+---
+
+
+## Credits
+
+  Raymond Lewis
+
+---
+
+
