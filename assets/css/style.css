@@ -144,21 +144,21 @@ p {
 }
 
 /* 2nd content header*/
-.contentHeader {
+.benefitHeader {
     margin-bottom: 10px;
     text-align: center;
     color: #ffffff;    
 }
 
 /* 2nd content Image*/
-.contentImage {
+.benefitImage {
     display: block;
     margin: 10px auto;
-    max-width: 15px;
+    max-width: 150px;
 }
 
 /* 2nd content paragraph*/
-.contentParagraph{
+.benefitParagraph{
     margin-bottom: 32px;
     color: #ffffff;
 }
