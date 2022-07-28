@@ -7,7 +7,7 @@
 
   <body>
     <br>
-    <a href="https://l1keafox.github.io/Horiseon">Click here for Horiseon Website </a> 
+    <a href="https://l1keafox.github.io/HoriseonRefactor">Click here for Horiseon Website </a> 
     <br>
     <img src="./assets/images/digital-marketing-meeting.jpg" />
   </body>
