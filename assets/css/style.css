@@ -84,7 +84,8 @@ section {
     float: right;
     margin-left: 25px;
 }
-.search-engine-optimization {
+
+article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -92,27 +93,12 @@ section {
     background-color: #0072bb;
     color: #ffffff;
 }
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-.mainHeader{
+
+.articleHeader{
     margin-bottom: 20px;
     font-size: 36px;
 }
-.contentImage{
+.articleImage{
     max-height: 200px;
 }
 
