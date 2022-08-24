@@ -15,22 +15,21 @@
   
   ## Usage 
   Click on the links at the footer to navigate. 
-* <a href='https://l1keafox.github.io/HoriseonRefactor/'  target="_blank"> Click here for deployment </a> 
-
-
   
+  * <a href='https://l1keafox.github.io/HoriseonRefactor/'  target="_blank"> Click here for deployment </a> 
+
   ![Website](/assets/images/digital-marketing-meeting.jpg)
   
   ## Installation 
-  No installation
   
+  No installation
   
   ## Contributing 
   We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
 
  1. Reporting a bug
 
-  2. Discussing the current state of the code
+ 2. Discussing the current state of the code
 
  3. Submitting a fix 
 
